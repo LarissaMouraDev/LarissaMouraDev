@@ -1,9 +1,5 @@
 # Olá, eu sou a Larissa! 👋
 
-<div align="center">
-  <img src="/api/placeholder/400/200" alt="banner" />
-</div>
-
 ## 👩‍💻 Sobre mim
 
 Profissional em início de carreira com foco em tecnologia, atualmente cursando Análise de Sistemas de Computação na FIAP (2024-2025). Apaixonada por desenvolvimento e análise de dados, busco constantemente aprender e contribuir com projetos inovadores.
@@ -35,7 +31,6 @@ Banco de Dados:
 ### 🌎 Idiomas
 - Inglês (Intermediário)
 - Espanhol (Intermediário)
-- Português (Nativo)
 
 ## 📊 Estatísticas do GitHub
 
