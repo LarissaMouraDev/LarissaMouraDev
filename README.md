@@ -32,11 +32,25 @@ Banco de Dados:
 - Inglês (Intermediário)
 - Espanhol (Intermediário)
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
+
+### GitHub Stats
+- ⭐ Total de Estrelas Ganhas: 0
+- 💾 Total de Commits: 10
+- 🔀 Total de PRs: 0
+- ❗ Total de Issues: 0
+- 👥 Contribuições (último ano): 0
+
+### 💻 Minhas Linguagens
+- HTML: 30%
+- CSS: 20%
+- JavaScript: 20%
+- Python: 20%
+- SQL: 10%
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaMouraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaMouraDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaMouraDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaMouraDev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🎯 Objetivos
