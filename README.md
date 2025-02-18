@@ -10,7 +10,7 @@ Profissional em início de carreira com foco em tecnologia, atualmente cursando 
 
 ## 🚀 Minhas Habilidades
 
-### 💻 Tecnologias
+### 💻 Linguagens e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,6 +18,19 @@ Profissional em início de carreira com foco em tecnologia, atualmente cursando 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+```text
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Python
+
+Banco de Dados:
+- SQL
+```
 
 ### 🌎 Idiomas
 - Inglês (Intermediário)
@@ -41,7 +54,7 @@ Profissional em início de carreira com foco em tecnologia, atualmente cursando 
 ## 📫 Entre em contato
 
 <div>
-  <a href="mailto:larissadefreitasmouraa@gmail.com">
+  <a href="mailto:larissadefreitasmouraa@gmail.com.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/larissa-moura-2015a3285" target="_blank">
